@@ -24,6 +24,16 @@ p {
 	text-align: center;
 }
 
+.main_page {
+	text-align: center;
+}
+
+.main_page a {
+	color: rgb(217, 38, 38);
+	font-size: 24px;
+	text-decoration: none;
+}
+
 .main_block {
     margin: 0 auto;
 }
